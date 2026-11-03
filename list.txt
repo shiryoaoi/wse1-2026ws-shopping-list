@@ -1,5 +1,9 @@
+orangen
 aepfel
 birnen
 bier
 kaffee
 leberkäse
+- normal
+- pikant
+- käse
