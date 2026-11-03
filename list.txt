@@ -1,12 +1,12 @@
 orangen
 aepfel
 birnen
-<<<<<<< HEAD
+tomaten
+gurken
+paprika
 bier
 kaffee
 leberkäse
 - normal
 - pikant
 - käse
-=======
->>>>>>> parent of 66dc516 (yes)
