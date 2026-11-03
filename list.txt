@@ -1,6 +1,7 @@
 orangen
 aepfel
 birnen
+bananen
 tomaten
 gurken
 paprika
