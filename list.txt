@@ -7,6 +7,6 @@ paprika
 bier
 kaffee
 leberkäse
-- normal
-- pikant
-- käse
+salat
+
+
