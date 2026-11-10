@@ -16,4 +16,5 @@ leberkäse
 salat
 brot
 cola
+fanta
 sprite
